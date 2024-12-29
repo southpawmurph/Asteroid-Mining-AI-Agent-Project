@@ -1,0 +1,42 @@
+%% Mermaid Live (https://mermaid.live/)
+
+
+flowchart TD
+    A[Asteroid Mining Operation] -->B(Director)
+    B --> |Design| C(Project Manager)
+    C --> D(Analyst)
+    C --> G(Engineer)
+    C --> H(Technician)
+    C --> S(Software Engineer)
+    B --> |Operations & Logistics| I(Project Manager)
+    I --> J(Analyst)
+    I --> K(Engineer)
+    I --> L(Technician)
+    I --> R(Software Engineer)
+    B --> |Research & Exploration| M(Project Manager)
+    M --> N(Analyst)
+    M --> O(Engineer)
+    M --> P(Technician)
+    M --> Q(Software Engineer)
+  
+
+
+
+   %% Style for colors
+   style C fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
+    style D fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
+    style G fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
+    style H fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
+    style S fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
+    
+    style I fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
+    style J fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
+    style K fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
+    style L fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
+    style R fill:#87CEEB,stroke:#333,stroke-width:2px,color:#000
+    
+    style M fill:#90EE90,stroke:#333,stroke-width:2px,color:#000
+    style N fill:#90EE90,stroke:#333,stroke-width:2px,color:#000
+    style O fill:#90EE90,stroke:#333,stroke-width:2px,color:#000
+    style P fill:#90EE90,stroke:#333,stroke-width:2px,color:#000
+    style Q fill:#90EE90,stroke:#333,stroke-width:2px,color:#000
