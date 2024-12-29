@@ -10,6 +10,7 @@ Crew AI
 LangChain
 LangGraph
 N8N
+Amazon Bedrock Agents
 
 Other Related Products/Services:
 Cursor - AI Code Editor
