@@ -5,7 +5,7 @@ Project Objective:
 Using AI Agents, create an asteroid mining operation. The operation includes, research & exploration, design, and operations. Each agent will have it's specific role
 
 AI Agent Products/Services:
-*LLama Index
+-LLama Index
 *Crew AI
 *LangChain
 *LangGraph
