@@ -1,3 +1,5 @@
+## Asteroid Selection
+
 Parameters for Asteroid Selection:
 -Types of minerals needed: Iron (steel), Lithium (electronics), Gold (electrical components), Aluminum (building material)
 -Distance from asteroid to material dropoff point
